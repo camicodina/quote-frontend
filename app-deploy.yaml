@@ -60,7 +60,7 @@ metadata:
     stack.appsody.dev/id: nodejs-express
     stack.appsody.dev/version: 0.2.10
   name: quote-frontend
-  namespace: demo-quote-backend
+  namespace: demo-mier-julio
 spec:
   applicationImage: dev.local/quote-frontend
   createKnativeService: false
